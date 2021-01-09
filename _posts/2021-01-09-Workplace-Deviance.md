@@ -2,9 +2,7 @@
 layout: post
 title: Workplace Deviance in a Digital World
 subtitle: 
-gh-repo: cyber-paul/cyber-paul.github.io
-gh-badge: [star, fork, follow]
-tags: 
+tags: [Insider Threat, Deviance, Technology, Security]
 comments: true
 ---
 
