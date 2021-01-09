@@ -3,7 +3,7 @@ layout: post
 title: NIST Cybersecurity Framework
 subtitle: Benefits of a Structured Approach to Cybersecurity
 cover-img: /assets/img/framework-banner.jpg
-thumbnail-img: /assets/img/framework-01.png
+thumbnail-img: /assets/img/framework-02.png
 share-img: /assets/img/framework-banner.jpg
 tags: [NIST, framework, process, structure]
 ---
