@@ -5,7 +5,7 @@ subtitle: Benefits of a Structured Approach to Cybersecurity
 cover-img: /assets/img/banner-curve.jpg
 thumbnail-img: /assets/img/framework-02.png
 share-img: /assets/img/banner-curve.jpg
-tags: [NIST, framework, process, structure]
+tags: [NIST, Framework, Process, Structure]
 ---
 
 
